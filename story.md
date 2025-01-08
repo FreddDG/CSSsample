@@ -11,3 +11,4 @@ labi na sa containers ug class.
 ###jan. 8
 trying my best to clone the design i get from Figma. .as one of my fist task on CSS
 ipa check nako unya ni alvin if available sya, ug kung pwde naba ni ako g clone. . kai para sa ako close naman ug nawong. . but still need ang opinion sa expert. . 
+dli jud makuha bai. . unsaon namani!? Responsiveness unsaon taman ka ui!
