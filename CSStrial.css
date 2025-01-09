@@ -1,48 +1,32 @@
-.samsung {
-  width: 468.26px;
-  height: 978.38px;
-  float: right; 
-  border-radius: 58px;
-  display: inline-block;
-}
-.design {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  size: 36px;
-  line-height: 48px;;
-  width: 520px;
-}
-.loremipsuminfo {
-  width: 300px;
-  font-weight: bold;
-  font-size: 100%;
 
+.titleP {
+ 
 }
 .icon {
-  width: 36px;
-  height: 36px;
+ 
 }
 .container{
-  margin: 500px;
-  max-width: 100%;
-  height: 909px;
-  display: inline-block;
-  align-items: center;  
-  background-color: rgb(251, 251, 251);
+  display: block;
+  display: flex;
+  align-items: center;
+  background-color: antiquewhite;
+}
+.container image {
+  
+}
+.container p {
+  display: inline-block
+  
+}
+.container h1 {
+
 }
 .content {
-  margin-left: 100px;
-  margin-top: 100px;
+  
 }
 .titleP {
-  width: 520px;
-  display: block;
-  margin-top: 160px;
-  margin-left: 165px;
+
 }
 .Icon1 {
-  width: 245px;
-  height: 138px;
-  display: inline-block;
-  margin-left: 165px;
-  margin-top: 50px;
+ 
 }
