@@ -15,3 +15,7 @@ dli jud makuha bai. . unsaon namani!? Responsiveness unsaon taman ka ui!
 ####. 9
 ahhh. . .na tangong ko sa responsive aning ako g himu. . unsa namani. .asa ko nag kulang ani man. . 
 maka dumdum man sab ta ani sa kangtanng Just Once. .. (I did my best but i guest my best wasn't good enought)
+
+#####. 10 
+ika 5th day nah wla pa japun na plastar. . unsa namani responsive lang maka pa luya sa ato ani. . .
+na kuha2x na naku. . .resposive nalang jud kang animas kah!. . 
