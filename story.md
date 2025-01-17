@@ -19,3 +19,7 @@ maka dumdum man sab ta ani sa kangtanng Just Once. .. (I did my best but i guest
 #####. 10 
 ika 5th day nah wla pa japun na plastar. . unsa namani responsive lang maka pa luya sa ato ani. . .
 na kuha2x na naku. . .resposive nalang jud kang animas kah!. . 
+
+#####. 13
+karun pajud naka balik monday nanaman. . code nasab ni. . guba nasab ni ahahaha. . bahala nani!. . panday guba!. . padaun lang!
+grind lang padulong nata sa exiting part!. . .

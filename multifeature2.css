@@ -1,34 +1,3 @@
-.hole-container {
-  background-color: aliceblue;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-}
-.option {
-  display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 75px;
-  margin-top: -75px;
-}
-.org,
-.multi,
-.multi2 {
-  font-size: xx-large;
-  text-decoration: none;
-  background-color: aliceblue;
-}
-.content {
-  background-color: white;
-  width: 50%;
-  margin: auto;
-  width: 1300px;
-  height: 1010px;
-  position: absolute;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-top: 100px;
-}
 .callback {
   border: solid;
   width: 50px;
@@ -81,7 +50,6 @@
 }
 .IP1 {
   margin-top: 45px;
-
 }
 .IP2 {
   margin-left: 483px;
