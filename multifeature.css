@@ -1,9 +1,10 @@
-.container-hole {
+.hole-container {
   background-color: aliceblue;
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
+  margin-top: 100px;
 }
 .option {
   display: flex;
@@ -22,15 +23,19 @@
   background-color: white;
   width: 50%;
   margin: auto;
-  width: 1250px;
-  height: 1010px;
+  width: 1300px;
+  height: 980px;
   position: absolute;
   padding-left: 100px;
   padding-right: 100px;
   padding-top: 100px;
-  margin-top: 75px;
 }
-  .container{
+.callback {
+  border: solid;
+  width: 50px;
+  height: 50px;
+}
+.container {
   width: 520px;
   height: 253px;
   margin-top: 469px;
@@ -77,6 +82,7 @@
 }
 .IP1 {
   margin-top: 45px;
+
 }
 .IP2 {
   margin-left: 483px;

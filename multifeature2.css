@@ -1,3 +1,34 @@
+.holecontainer2 {
+  background-color: aliceblue;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.option2 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 75px;
+  margin-top: -75px;
+}
+.org,
+.multi,
+.multi2 {
+  font-size: xx-large;
+  text-decoration: none;
+  background-color: aliceblue;
+}
+.content2 {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  width: 1300px;
+  height: 1010px;
+  position: absolute;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+}
 .callback {
   border: solid;
   width: 50px;
@@ -28,34 +59,45 @@
   font-size: 20px;
 }
 .icon {
-  margin-top: 80px;
+  margin-top: 60px;
+  width: 50px;
 }
 .Ticon1,
 .Ticon2,
 .Ticon3,
 .Ticon4 {
-  font-size: 12px;
+  font-size: 15px;
   font-family: roboto;
   width: 245px;
   height: 26px;
 }
-.Picon1,
-.Picon2,
-.Picon3,
-.Picon4 {
-  width: 245px;
+.Picon1 {
+  width: 650px;
   height: 138px;
   font-family: roboto;
-  font-size: 12px;
+  font-size: 15px;
+}
+.Picon3{
+  width: 650px;
+  height: 138px;
+  font-family: roboto;
+  font-size: 15px;
+}
+.IP3 {
+  margin-top: -10px;
 }
 .IP1 {
+  width: 400px;
   margin-top: 45px;
+
 }
 .IP2 {
+  display: none;
   margin-left: 483px;
   margin-top: -320px;
 }
 .IP4 {
+  display: none;
   margin-left: 483px;
   margin-top: -320px;
 }
